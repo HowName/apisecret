@@ -1,6 +1,11 @@
 # apisecret
 api请求加密安全工具类,包含生成签名，检查签名
 
+#composer安装
+```
+composer require how-name/apisecret
+
+```
 ## 文件详解
 - ApiSignatureTrait.php
 
