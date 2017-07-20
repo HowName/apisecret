@@ -3,6 +3,7 @@
  * Consume Api Signature Util Class
  * 消耗-检查Signature类，验证方使用
  */
+namespace Secret;
 
 class ConsumeApiSignatureUtil
 {

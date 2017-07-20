@@ -3,6 +3,8 @@
  * Produce Api Signature Util Class
  * 生产Signature类，请求方使用
  */
+namespace Secret;
+
 class ProduceApiSignatureUtil
 {
     use ApiSignatureTrait;

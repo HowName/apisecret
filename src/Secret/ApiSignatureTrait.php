@@ -1,9 +1,10 @@
 <?php
-
 /**
  * ApiSignatureTrait Class
  * trait since PHP 5.4.0
  */
+namespace Secret;
+
 trait ApiSignatureTrait
 {
     /**
