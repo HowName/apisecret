@@ -1,5 +1,5 @@
 {
-  "name": "HowName/apisecret",
+  "name": "how-name/apisecret",
   "description": "the api security",
   "type": "library",
   "require": {
