@@ -2,6 +2,7 @@
   "name": "how-name/apisecret",
   "description": "the api security",
   "type": "library",
+  "license": "MIT",
   "require": {
     "php": ">=5.4.0"
   },
