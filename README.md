@@ -1,10 +1,9 @@
 # apisecret
 api请求加密安全工具类,包含生成签名，检查签名
 
-#composer安装
+# composer安装
 ```
 composer require how-name/apisecret
-
 ```
 ## 文件详解
 - ApiSignatureTrait.php
@@ -19,7 +18,7 @@ composer require how-name/apisecret
 
   生产组装api请求参数工具类，请求方使用，secret不可外泄，即使加密算法被破解，api也是安全的
 
- ## 使用方法
+## 使用方法
  
 ```php
 //生成请求参数
